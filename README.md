@@ -19,7 +19,7 @@ I’ve worked on projects across retail, pharmaceutical, and e-commerce domains 
 
 My approach goes beyond just analysis. I build dashboards that are intuitive and decision-focused, automate repetitive workflows, and uncover patterns that help businesses optimize performance and plan ahead.
 
-I’m particularly interested in ***data storytelling, business intelligence, and solving real-world problems** with data.
+I’m particularly interested in **data storytelling, business intelligence, and solving real-world problems** with data.
 
 Outside of data, I enjoy reading, exploring new ideas, and discovering how different industries use data to drive impact.
 
