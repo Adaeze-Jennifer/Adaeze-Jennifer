@@ -50,18 +50,30 @@ Outside of data, I enjoy reading, exploring new ideas, and discovering how diffe
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
+- **SQL:** Extracted and analyzed retail sales data using joins, aggregations, and CTEs  
+- **Power BI:** Built interactive dashboards with DAX to analyze customer segmentation and sales performance  
+- **Excel:** Developed sales dashboards using PivotTables and data cleaning techniques  
+
+
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
 
+- **Python (Pandas, NumPy, Matplotlib, Seaborn);** for exploratory data analysis, data cleaning, and visualization of business datasets
+  
 #### Business Intelligence & Analytics
+
 <p>
-  
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+ 
+- Statistical Analysis: Applied descriptive statistics and trend analysis to evaluate sales performance and identify key patterns  
+- Predictive Modeling: Built basic forecasting models to analyze sales trends and support data-driven planning  
+- KPI Development: Defined and tracked key performance indicators to measure business performance across sales and customer metrics    
+
+####⚙️ Tools & Workflow
+
+- Git & GitHub (version control, project documentation)  
+- Jupyter Notebook  
