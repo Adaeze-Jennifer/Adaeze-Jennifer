@@ -22,9 +22,6 @@ My approach goes beyond just analysis. I build dashboards that are intuitive and
 I’m particularly interested in **data storytelling, business intelligence, and solving real-world problems** with data.
 
 Outside of data, I enjoy reading, exploring new ideas, and discovering how different industries use data to drive impact.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
