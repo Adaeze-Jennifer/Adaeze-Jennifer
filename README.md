@@ -38,42 +38,43 @@ Outside of data, I enjoy reading, exploring new ideas, and discovering how diffe
 - Data storytelling & dashboard design best practices
 - Introduction to machine learning in Python
   
-## 🛠️ Technical Skillset
+## 🛠️ Technical Skillset  
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### 📊 Data Analysis & Visualization  
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
 
-- **SQL:** Extracted and analyzed retail sales data using joins, aggregations, and CTEs  
-- **Power BI:** Built interactive dashboards with DAX to analyze customer segmentation and sales performance  
-- **Excel:** Developed sales dashboards using PivotTables and data cleaning techniques  
+- **SQL:** Extracted and analyzed retail sales data using joins, aggregations, and CTEs.  
+- **Power BI:** Built interactive dashboards with DAX to analyze customer segmentation and sales performance.  
+- **Excel:** Developed sales dashboards using PivotTables and data cleaning techniques.  
 
+---
 
-#### Programming & Automation
+#### 🐍 Programming & Automation  
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-
-- **Python (Pandas, NumPy, Matplotlib, Seaborn);** for exploratory data analysis, data cleaning, and visualization of business datasets
-  
-#### Business Intelligence & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
- 
-- Statistical Analysis: Applied descriptive statistics and trend analysis to evaluate sales performance and identify key patterns  
-- Predictive Modeling: Built basic forecasting models to analyze sales trends and support data-driven planning  
-- KPI Development: Defined and tracked key performance indicators to measure business performance across sales and customer metrics    
 
-####⚙️ Tools & Workflow
+- **Python (Pandas, NumPy, Matplotlib, Seaborn):** Performed exploratory data analysis on business datasets, including data cleaning, transformation, and visualization to uncover actionable insights.  
 
+---
+
+#### 📈 Business Intelligence & Analytics  
+<p>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" />
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" />
+  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" />
+</p>
+
+- **Statistical Analysis:** Applied descriptive statistics and trend analysis to evaluate sales performance and identify key patterns.  
+- **Predictive Modeling:** Built basic forecasting models to analyze sales trends and support data-driven planning.  
+- **KPI Development:** Defined and tracked key performance indicators to measure business performance across sales and customer metrics.  
+
+---
+
+#### ⚙️ Tools & Workflow  
 - Git & GitHub (version control, project documentation)  
 - Jupyter Notebook  
