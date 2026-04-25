@@ -15,9 +15,9 @@
 ## 🚀 About Me 
 I’m a data analyst with a background in Economics, focused on turning complex datasets into clear, actionable insights that support business decision-making.
 
-I’ve worked on projects across retail, pharmaceutical, and e-commerce domains—analyzing sales performance, customer behavior, and revenue trends using tools like **SQL, Excel, Power BI, and Python.**
+I’ve worked on projects across retail, pharmaceutical, and e-commerce domains — analyzing sales performance, customer behavior, and revenue trends using tools like **SQL, Excel, Power BI, and Python.**
 
-My approach goes beyond just analysis—I build dashboards that are intuitive and decision-focused, automate repetitive workflows, and uncover patterns that help businesses optimize performance and plan ahead.
+My approach goes beyond just analysis. I build dashboards that are intuitive and decision-focused, automate repetitive workflows, and uncover patterns that help businesses optimize performance and plan ahead.
 
 I’m particularly interested in ***data storytelling, business intelligence, and solving real-world problems** with data.
 
@@ -44,11 +44,10 @@ Outside of data, I enjoy reading, exploring new ideas, and discovering how diffe
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Avanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Programming & Automation
