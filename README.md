@@ -13,26 +13,31 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with a background in Economics, and a drive to help businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a data analyst with a background in Economics, focused on turning complex datasets into clear, actionable insights that support business decision-making.
 
-My work sits at the intersection of data and decision-making. I build dashboards that actually get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I’ve worked on projects across retail, pharmaceutical, and e-commerce domains—analyzing sales performance, customer behavior, and revenue trends using tools like **SQL, Excel, Power BI, and Python.**
 
-When I'm not working with data, I'm reading a. I love the "aha!" moment when data reveals something new and useful.
+My approach goes beyond just analysis—I build dashboards that are intuitive and decision-focused, automate repetitive workflows, and uncover patterns that help businesses optimize performance and plan ahead.
+
+I’m particularly interested in ***data storytelling, business intelligence, and solving real-world problems** with data.
+
+Outside of data, I enjoy reading, exploring new ideas, and discovering how different industries use data to drive impact.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Sales & Revenue Insights Project:** Deep-diving into transactional datasets to uncover growth opportunities and performance drivers
+- **Power BI Dashboard Projects:** Designing interactive dashboards focused on business KPIs and user experience
+- **Portfolio Optimization:** Refining existing projects and documenting insights more effectively
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
+- Advanced SQL for data analysis and optimization
+- Data storytelling & dashboard design best practices
+- Introduction to machine learning in Python
+  
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -41,11 +46,8 @@ When I'm not working with data, I'm reading a. I love the "aha!" moment when dat
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  
   <img src="https://img.shields.io/badge/Excel-Avanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  
   <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Python Skill Badge">
 </p>
 
