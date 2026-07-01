@@ -51,6 +51,7 @@ My work enables business leaders to make informed decisions by transforming comp
 *2026 — Present*
 
 Supporting business decision-making through sales, inventory, customer, and operational analytics.
+
 ---
 
 ### Data Visualization Associate Intern
