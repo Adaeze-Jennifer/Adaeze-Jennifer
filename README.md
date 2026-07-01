@@ -56,7 +56,12 @@ Supporting business decision-making through sales, inventory, customer, and oper
 
 Completed a data analytics internship through **Excelerate,** affiliated with **Saint Louis University (SLU)**. Worked with Microsoft SQL Server, PostgreSQL, and Power BI to analyze international student eligibility and compliance data, developing dashboards and analytical reports to support data-driven decision-making. 
 
+---
 
+### Data Visualization Trainee Intern
+**Excelerate** | *2026*
+
+Completed a data analytics internship through **Excelerate,** affiliated with **Saint Louis University (SLU)**. Conducted Exploratoy Data Analysis (EDA), data cleaning, and dashboard development using Power BI, Power Query and Excel to analyze international student recruitment and admissions data.
       
 ## 🔭 What I'm Currently Working On 
 
