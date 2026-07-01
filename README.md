@@ -43,20 +43,17 @@ I support data-driven decision-making for a large FMCG organization with an exte
 
 My work enables business leaders to make informed decisions by transforming complex datasets into meaningful insights and actionable recommendations.
 
-## 🏙 Professional Experience
+## ⭐Featured Experience
 
 ### Data Analyst
-**Leading FCMG Company (Nigeria)**
-
-*2026 — Present*
+**Leading FCMG Company (Nigeria)** | *2026 — Present*
 
 Supporting business decision-making through sales, inventory, customer, and operational analytics.
 
 ---
 
 ### Data Visualization Associate Intern
-**Excelerate**
-*2026*
+**Excelerate** | *2026*
 
 Completed a data analytics internship through **Excelerate,** affiliated with **Saint Louis University (SLU)**. Worked with Microsoft SQL Server, PostgreSQL, and Power BI to analyze international student eligibility and compliance data, developing dashboards and analytical reports to support data-driven decision-making. 
 
