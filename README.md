@@ -37,8 +37,8 @@ I support data-driven decision-making for a large FMCG organization with an exte
 - 📦 Evaluate product performance and inventory movement across all branches to improve stock management
 - 👥 Analyze customer purchasing behavior to uncover buying patterns, market trends, and business opportunities
 - 📈 Develop demand forecasting models to support timely inventory replenishmment and reduce stock-out risks
-- 📉 Design interactove Power BI dashboards that monitor KPIs and business performance
-- 📹 Develop executive-ready PowerPoint presentations that translates analytical findings into clear actionable recommendations for stakeholders
+- 📉 Design interactive Power BI dashboards to monitor KPIs, sales performance, inventory and operational metrics
+- 📹 Develop executive-ready PowerPoint presentations that translates analytical findings into clear, actionable insights for stakeholders
 - 🤝 Collaborate with business teams to translate operational challenges into data-driven solutions
 
 My work enables business leaders to make informed decisions by transforming complex datasets into meaningful insights and actionable recommendations.
