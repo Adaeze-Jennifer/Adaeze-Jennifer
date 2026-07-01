@@ -34,7 +34,7 @@ I support data-driven decision-making for a large FMCG organization with an exte
 
 - 📊 Analyze sales performance to identify trends, growth opportunities, and revenue drivers
 - 💰 Perform profitability analysis across products and business categories to support strategic decisions
-- 📦 Evaluate product performance and inventory movement across all branchesto improve stock management
+- 📦 Evaluate product performance and inventory movement across all branches to improve stock management
 - 👥 Analyze customer purchasing behavior to identify buying patterns and business opportunities
 - 📈 Develop demand forecasting models to support timely inventory replenishmment and reduce stock-out risks
 - 📉 Design interactove Power BI dashboards that monitor KPIs and business performance
