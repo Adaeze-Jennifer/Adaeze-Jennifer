@@ -25,21 +25,23 @@ Outside of data, I enjoy reading, exploring new ideas, and discovering how diffe
 
 ## 💼 Current Role
 
-### **Data Analyst | Multinational FMCG Company (Nigeria)**
+### **Data Analyst | Leading FMCG Company (Nigeria)**
 *2026 — Present*
 
-I support data-driven decision-making for a large FMCG organization with an extensive product portfolio and operational across multiple locations.
+I support data-driven decision-making for a large FMCG organization with an extensive product portfolio and operations across multiple locations, transforming business data into actionable insights that improve performance and support strategic planning.
 
 ### Key Responsibilities
 
 - 📊 Analyze sales performance to identify trends, growth opportunities, and revenue drivers
 - 💰 Perform profitability analysis across products and business categories to support strategic decisions
 - 📦 Evaluate product performance and inventory movement across all branches to improve stock management
-- 👥 Analyze customer purchasing behavior to identify buying patterns and business opportunities
+- 👥 Analyze customer purchasing behavior to uncover buying patterns, market trends, and business opportunities
 - 📈 Develop demand forecasting models to support timely inventory replenishmment and reduce stock-out risks
 - 📉 Design interactove Power BI dashboards that monitor KPIs and business performance
-- 📹 Create executive PowerPoint presentations that communicate analytical findings and actionable recommendations to stakeholders
+- 📹 Develop executive-ready PowerPoint presentations that translates analytical findings into clear actionable recommendations for stakeholders
 - 🤝 Collaborate with business teams to translate operational challenges into data-driven solutions
+
+My work enables business leaders to make informed decisions by transforming complex datasets into meaningful insights and actionable recommendations.
       
 ## 🔭 What I'm Currently Working On 
 
