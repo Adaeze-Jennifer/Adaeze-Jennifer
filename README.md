@@ -23,6 +23,8 @@ I’m particularly interested in **data storytelling, business intelligence, and
 
 Outside of data, I enjoy reading, exploring new ideas, and discovering how different industries use data to drive impact.
 
+---
+
 ## 💼 Current Role
 
 ### **Data Analyst | Leading FMCG Company (Nigeria)**
@@ -43,6 +45,8 @@ I support data-driven decision-making for a large FMCG organization with an exte
 
 My work enables business leaders to make informed decisions by transforming complex datasets into meaningful insights and actionable recommendations.
 
+---
+
 ## 🏙 Professional Experience
 
 ### Data Analyst
@@ -50,8 +54,6 @@ My work enables business leaders to make informed decisions by transforming comp
 *2026 — Present*
 
 Supporting business decision-making through sales, inventory, customer, and operational analytics.
-
----
 
 ### Data Visualization Associate Intern
 **Excelerate**
