@@ -108,12 +108,12 @@ Completed a data analytics internship through **Excelerate,** affiliated with **
   <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" />
 </p>
 
-- **KPI Development**
-- **Statistical Analysis**  
-- **Predictive Analytics and Forecasting**  
-- **Sales and Revenue Analytics**
-- **Customer Analytics**
-- 
+- KPI Development
+- Statistical Analysis  
+- Predictive Analytics and Forecasting
+- Sales and Revenue Analytics
+- Customer Analytics
+  
 ---
 
 #### ⚙️ Tools & Workflow  
