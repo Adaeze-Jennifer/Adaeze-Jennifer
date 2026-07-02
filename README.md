@@ -65,7 +65,7 @@ Completed a data analytics internship through **Excelerate,** affiliated with **
       
 ## 🔭 What I'm Currently Working On 
 
-- **Sales & Revenue Insights Project:** Deep-diving into transactional datasets to uncover growth opportunities and performance drivers
+- **Sales & Revenue Analytics:** Analyzing transactional data to identify growth opportunities, revenue drivers, and business peformance trends
 - **Power BI Dashboard Projects:** Designing interactive dashboards focused on business KPIs and user experience
 - **Portfolio Optimization:** Refining existing projects and documenting insights more effectively
 
@@ -73,9 +73,9 @@ Completed a data analytics internship through **Excelerate,** affiliated with **
 
 - Advanced SQL for data analysis and optimization
 - Data storytelling & dashboard design best practices
-- Introduction to machine learning in Python
+- Machine learning Fundamentals with Python
   
-## 🛠️ Technical Skillset  
+## 🛠️ Core Skills & Technologies  
 
 #### 📊 Data Analysis & Visualization  
 <p>
@@ -84,9 +84,9 @@ Completed a data analytics internship through **Excelerate,** affiliated with **
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
 
-- **SQL:** Extracted and analyzed retail sales data using joins, aggregations, and CTEs.  
-- **Power BI:** Built interactive dashboards with DAX to analyze customer segmentation and sales performance.  
-- **Excel:** Developed sales dashboards using PivotTables and data cleaning techniques.  
+- Complex SQL queries, joins, CTEs and aggregations
+- Interactive dashboards with DAX
+- Advanced Excel analysis, PivotTables and Power Query
 
 ---
 
@@ -95,7 +95,9 @@ Completed a data analytics internship through **Excelerate,** affiliated with **
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
-- **Python (Pandas, NumPy, Matplotlib, Seaborn):** Performed exploratory data analysis on business datasets, including data cleaning, transformation, and visualization to uncover actionable insights.  
+- Exploratory Data Analysis
+- Data Visualization
+- Automation scripts  
 
 ---
 
@@ -106,12 +108,16 @@ Completed a data analytics internship through **Excelerate,** affiliated with **
   <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" />
 </p>
 
-- **Statistical Analysis:** Applied descriptive statistics and trend analysis to evaluate sales performance and identify key patterns.  
-- **Predictive Modeling:** Built basic forecasting models to analyze sales trends and support data-driven planning.  
-- **KPI Development:** Defined and tracked key performance indicators to measure business performance across sales and customer metrics.  
-
+- **KPI Development**
+- **Statistical Analysis**  
+- **Predictive Analytics and Forecasting**  
+- **Sales and Revenue Analytics**
+- **Customer Analytics**
+- 
 ---
 
 #### ⚙️ Tools & Workflow  
 - Git & GitHub (version control, project documentation)  
-- Jupyter Notebook  
+- Jupyter Notebook
+- VS Code
+- Microsoft SQL Server
